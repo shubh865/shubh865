@@ -6,7 +6,6 @@
 
 <h3 align="center">A passionate software developer</h3>
 
-<br/>
 
 <div align="center">
  
@@ -31,8 +30,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,java,mysql" /><br>
 </div>
 
-<br/>
-<hr/>
 
 <hr/>
 
