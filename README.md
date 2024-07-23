@@ -9,7 +9,7 @@
 
 <div align="center">
  
-
+<br/>
  </div>
  
 <div align="center"> 
@@ -20,8 +20,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
